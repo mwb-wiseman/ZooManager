@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d5a63c7-0fb0-4192-acb8-f33f5475a325": {
+      "ProjectGuid": "3d5a63c7-0fb0-4192-acb8-f33f5475a325",
+      "DisplayName": "WPF ZooManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
